@@ -10,3 +10,21 @@ web forms
 ---------
 
 now in this part i take a look flask web forms
+
+
+databases
+----------
+
+sqlalchemy
+
+
+email
+-----
+
+flask mail
+
+
+large application structure
+---------------------------
+
+now i reoganize the repository for more neat structure
